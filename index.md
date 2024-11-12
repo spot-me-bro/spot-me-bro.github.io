@@ -47,22 +47,7 @@ spot-me-bro is a platform designed to help students find gym partners based on t
 * [Postgresql](https://www.postgresql.org/) for sql database management
 
 ### User Guide
-Users will be able to create a profile that shows their abilities in 5 different categories. Once a user is registered, they can log into the application and will be prompted as to what type of workout they are interested in doing today. The application will then match users with similar capabilities and interests together and provide them with each other’s contact information.
-
-### Mockup
-Here is a sketch of our ideas for some basic page layouts and page flow:
-![](images/spot-me-bro-mockups.png)
-
-### Development History
-Dev log (11/11/24)
-We are in the brainstorming and design phase of spot-me-bro, development has not officially begun. We have laid out what we would like the application to do and have a mockup of a few pages that will need to be made.
-
-### Team
-spot-me-bro is designed and implemented by, Ashton Aparra (ashtonaparra), Adeil Mohammadzadah (Adeilmo226), and Coen Bracilano (CoenBracilano).
-* [Postgresql](https://www.postgresql.org/) for sql database management
-
-### User Guide
-Users will be able to create a profile that shows their abilities in 5 different categories. Once a user is registered, they can log into the application and will be prompted as to what type of workout they are interested in doing today. The application will then match users with similar capabilities and interests together and provide them with each other’s contact information.
+Users will be able to create a profile that shows their abilities in 5 different categories (Push, Pull, Legs, Full Body, Cardio). Once a user is registered, they can log into the application and will be prompted as to what type of workout they are interested in doing today. The application will then match users with similar capabilities and interests together and provide them with each other’s contact information.
 
 ### Mockup
 Here is a sketch of our ideas for some basic page layouts and page flow:
