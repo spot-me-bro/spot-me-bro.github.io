@@ -22,3 +22,10 @@ spot-me-bro is a platform designed to help students find gym partners based on t
 1. Gym Partner Matching: Match users with others based on their fitness level, experience, and workout preferences.
 2. Profile Customization: Users create and manage their profiles, including fitness goals and availability.
 3. Workout Plans (Stretch Goal): Optionally, users can receive personalized workout plans based on their fitness goals.
+
+### Technology Used
+
+* [Node.js](https://www.nodejs.com/) for Javascript-based implementation of client and server code.
+* [React](https://reactjs.org/) for component-based UI implementation and routing.
+* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
+* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
