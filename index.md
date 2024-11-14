@@ -36,7 +36,7 @@ spot-me-bro is a platform designed to help students find gym partners based on t
 1. Gym Partner Matching: Match users with others based on their fitness level, experience, and workout preferences.
 2. Profile Customization: Users create and manage their profiles, including fitness goals and availability.
 3. Workout Plans (Extra feature): Optionally, users can browse workout plans based on their fitness goals.
-3. Workout Plans (Extra feature): Optionally, users can browse workout plans based on their fitness goals.
+
 
 ### Technology Used
 
