@@ -51,7 +51,7 @@ Users will be able to create a profile that shows their abilities in 5 different
 
 ### Mockup
 Here is a sketch of our ideas for some basic page layouts and page flow:
-![](mockupfinal.webp)
+![](images/mockupfinal.webp)
 
 ### Development History
 Dev log (11/11/24)
