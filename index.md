@@ -37,18 +37,18 @@ spot-me-bro is a platform designed to help students find gym partners based on t
 
 ### Technology Used
 
-* [Node.js](https://www.nodejs.com/) for Javascript-based implementation of client and server code.
+* [Node.js](https://www.nodejs.com/) for Javascript-based client and server code implementation.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
-* [Postgresql](https://www.postgresql.org/) for sql database management
+* [Postgresql](https://www.postgresql.org/) for SQL database management
 
 ### User Guide
-Users will be able to create a profile that shows their abilities in 5 different categories (Push, Pull, Legs, Full Body, Cardio). Once a user is registered, they can log into the application and will be prompted as to what type of workout they are interested in doing today. The application will then match users with similar capabilities and interests together and provide them with each other’s contact information.
+Users will be able to create profiles that show their abilities in five different categories (Push, Pull, Legs, Full Body, Cardio). Once a user is registered, they can log into the application and will be prompted to tell what type of workout they are interested in doing today. The application will then match users with similar capabilities and interests and provide them with each other’s contact information.
 
 ### Mockup
 Here is a sketch of our ideas for some basic page layouts and page flow:
-![](images/mockupfinal.webp)
+![](images/mockupfinal.png)
 
 ### Development History
 Dev log (11/11/24)
