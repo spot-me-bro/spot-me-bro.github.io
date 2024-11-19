@@ -1,4 +1,4 @@
-# spot-me-bro
+# SpotMeBro
 
 ## Table of contents
 <!-- Commented out items are ones used in bowfolios that we currently do not have the capabilities to complete with
@@ -25,8 +25,8 @@ the current version of the project (11/11/24) -->
 
 ## Overview
 
-spot-me-bro is a platform designed to help students find gym partners based on their fitness level, experience, and goals. Whether you’re a beginner looking for guidance or an advanced gym-goer looking for a partner to push you to your limits, spot-me-bro aims to make your workout experience more engaging and productive.
-spot-me-bro is a platform designed to help students find gym partners based on their fitness level, experience, and goals. Whether you’re a beginner looking for guidance or an advanced gym-goer looking for a partner to push you to your limits, spot-me-bro aims to make your workout experience more engaging and productive.
+SpotMeBro is a platform designed to help students find gym partners based on their fitness level, experience, and goals. Whether you’re a beginner looking for guidance or an advanced gym-goer looking for a partner to push you to your limits, SpotMeBro aims to make your workout experience more engaging and productive.
+SpotMeBro is a platform designed to help students find gym partners based on their fitness level, experience, and goals. Whether you’re a beginner looking for guidance or an advanced gym-goer looking for a partner to push you to your limits, SpotMeBro aims to make your workout experience more engaging and productive.
 
 ### Key Features
 
@@ -52,7 +52,7 @@ Here is a sketch of our ideas for some basic page layouts and page flow:
 
 ### Development History
 Dev log (11/11/24)
-We are in the brainstorming and design phase of spot-me-bro, development has not officially begun. We have laid out what we would like the application to do and have a mockup of a few pages that will need to be made.
+We are in the brainstorming and design phase of SpotMeBro, development has not officially begun. We have laid out what we would like the application to do and have a mockup of a few pages that will need to be made.
 
 ### Team
-spot-me-bro is designed and implemented by, Ashton Aparra (ashtonaparra), Adeil Mohammadzadah (Adeilmo226), and Coen Bracilano (CoenBracilano).
+SpotMeBro is designed and implemented by, Ashton Aparra (ashtonaparra), Adeil Mohammadzadah (Adeilmo226), and Coen Bracilano (CoenBracilano).
