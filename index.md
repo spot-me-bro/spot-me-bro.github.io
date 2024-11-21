@@ -3,28 +3,11 @@
 
 
 ## Table of contents
-<!-- Commented out items are ones used in bowfolios that we currently do not have the capabilities to complete with
-the current version of the project (11/11/24) -->
-<!-- Commented out items are ones used in bowfolios that we currently do not have the capabilities to complete with
-the current version of the project (11/11/24) -->
 * [Overview](#overview)
-<!-- * [Deployment](#deployment) -->
-<!-- * [Deployment](#deployment) -->
 * [User Guide](#user-guide)
-<!-- * [Community Feedback](#community-feedback) -->
-<!-- * [Developer Guide](#developer-guide) -->
-<!-- * [Community Feedback](#community-feedback) -->
-<!-- * [Developer Guide](#developer-guide) -->
 * [Development History](#development-history)
-<!-- * [Continuous Integration](#continuous-integration) -->
-<!-- * [Walkthrough videos](#walkthrough-videos) -->
-<!-- * [Example enhancements](#example-enhancements) -->
 * [Mockup](#mockup)
-<!-- * [Continuous Integration](#continuous-integration) -->
-<!-- * [Walkthrough videos](#walkthrough-videos) -->
-<!-- * [Example enhancements](#example-enhancements) -->
 * [Team Contract](#team-contract)
-
 * [Team](#team)
 
 ## Overview
@@ -60,7 +43,7 @@ We are in the brainstorming and design phase of SpotMeBro, development has not o
 
 ### Team Contract
 
-Team Contract can be found here. 
+Team Contract can be found [here](https://docs.google.com/document/d/1R3GT8Ti9fhLgFd88CLp2sHaLnCis-MX7W9F1UdYqiRk/edit?tab=t.0#heading=h.9odkc9kfj5rj).
 
 ### Team
 SpotMeBro is designed and implemented by, Ashton Aparra (ashtonaparra), Adeil Mohammadzadah (Adeilmo226), and Coen Bracilano (CoenBracilano).
