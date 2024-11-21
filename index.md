@@ -1,7 +1,7 @@
 # SpotMeBro
 ![](images/logo.png)
 
-[[View Github Organization]](https://github.com/spot-me-bro)
+[View Github Organization](https://github.com/spot-me-bro)
 
 
 ## Table of contents
@@ -42,7 +42,16 @@ Here is a sketch of our ideas for some basic page layouts and page flow:
 
 ### Development History
 
-https://github.com/orgs/spot-me-bro/projects/5
+#### Milestone #1:
+
+[Here is the link to our M1 project page](https://github.com/orgs/spot-me-bro/projects/5)
+
+For this Milestone, we set simple database models and pages/components.
+
+![](images/M1progress.png)
+
+#### Milestone #2:
+
 
 ### Deployment
 
