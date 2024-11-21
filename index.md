@@ -1,4 +1,6 @@
 # SpotMeBro
+![](images/logo.png)
+
 
 ## Table of contents
 <!-- Commented out items are ones used in bowfolios that we currently do not have the capabilities to complete with
@@ -21,6 +23,8 @@ the current version of the project (11/11/24) -->
 <!-- * [Continuous Integration](#continuous-integration) -->
 <!-- * [Walkthrough videos](#walkthrough-videos) -->
 <!-- * [Example enhancements](#example-enhancements) -->
+* [Team Contract](#team-contract)
+
 * [Team](#team)
 
 ## Overview
@@ -53,6 +57,10 @@ Here is a sketch of our ideas for some basic page layouts and page flow:
 ### Development History
 Dev log (11/11/24)
 We are in the brainstorming and design phase of SpotMeBro, development has not officially begun. We have laid out what we would like the application to do and have a mockup of a few pages that will need to be made.
+
+### Team Contract
+
+Team Contract can be found here. 
 
 ### Team
 SpotMeBro is designed and implemented by, Ashton Aparra (ashtonaparra), Adeil Mohammadzadah (Adeilmo226), and Coen Bracilano (CoenBracilano).
