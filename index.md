@@ -34,7 +34,9 @@ SpotMeBro is a platform designed to help students find gym partners based on the
 * [Postgresql](https://www.postgresql.org/) for SQL database management
 
 ### User Guide
-Users will be able to create profiles that show their abilities in five different categories (Push, Pull, Legs, Full Body, Cardio). Once a user is registered, they can log into the application and will be prompted to tell what type of workout they are interested in doing today. The application will then match users with similar capabilities and interests and provide them with each other’s contact information.
+Up-to-date screenshots showing the state of the project.
+
+
 
 ### Mockup
 Here is a sketch of our ideas for some basic page layouts and page flow:
