@@ -36,6 +36,13 @@ SpotMeBro is a platform designed to help students find gym partners based on the
 ### User Guide
 Up-to-date screenshots showing the state of the project.
 
+![](images/screenshot1.webp)
+
+![](images/screenshot2.webp)
+
+![](images/screenshot3.webp)
+
+![](images/screenshot4.webp)
 
 
 ### Mockup
