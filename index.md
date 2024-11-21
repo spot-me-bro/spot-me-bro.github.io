@@ -39,10 +39,13 @@ Up-to-date screenshots showing the state of the project.
 Landing page
 ![](images/screenshot1.webp)
 
+Admin page
 ![](images/screenshot2.webp)
 
+Select a Workout page
 ![](images/screenshot3.webp)
 
+Sign up page
 ![](images/screenshot4.webp)
 
 
