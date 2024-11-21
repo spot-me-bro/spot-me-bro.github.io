@@ -7,6 +7,7 @@
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Mockup](#mockup)
+* [Deployment](#Deployment)
 * [Team Contract](#team-contract)
 * [Team](#team)
 
@@ -40,6 +41,10 @@ Here is a sketch of our ideas for some basic page layouts and page flow:
 ### Development History
 Dev log (11/11/24)
 We are in the brainstorming and design phase of SpotMeBro, development has not officially begun. We have laid out what we would like the application to do and have a mockup of a few pages that will need to be made.
+
+### Deployment
+
+SpotMeBro is deployed on vercel [here](https://spot-me-bro-nextjs-49w2lafmj-adeil-mohammadzadahs-projects.vercel.app/).
 
 ### Team Contract
 
