@@ -1,7 +1,7 @@
 # SpotMeBro
 ![](images/logo.png)
 
-[[View Github Organization]](https://github.com/spot-me-bro).
+[[View Github Organization]](https://github.com/spot-me-bro)
 
 
 ## Table of contents
@@ -41,8 +41,8 @@ Here is a sketch of our ideas for some basic page layouts and page flow:
 ![](images/mockupfinal.png)
 
 ### Development History
-Dev log (11/11/24)
-We are in the brainstorming and design phase of SpotMeBro, development has not officially begun. We have laid out what we would like the application to do and have a mockup of a few pages that will need to be made.
+
+https://github.com/orgs/spot-me-bro/projects/5
 
 ### Deployment
 
