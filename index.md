@@ -66,7 +66,9 @@ For this Milestone, we set simple database models and pages/components.
 
 #### Milestone #2:
 
-Coming soon....
+[Here is the link to our M2 project page](https://github.com/orgs/spot-me-bro/projects/6)
+
+The goal of this Milestone is to have a fully working application that references our database for information
 
 #### Milestone #3:
 
