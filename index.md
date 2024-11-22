@@ -9,8 +9,9 @@
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Mockup](#mockup)
-* [Deployment](#Deployment)
+* [Deployment](#deployment)
 * [Team Contract](#team-contract)
+* [Adherence to the GitHub hosting guidelines](#adherence)
 * [Team](#team)
 
 ## Overview
@@ -64,6 +65,19 @@ For this Milestone, we set simple database models and pages/components.
 ![](images/M1progress.png)
 
 #### Milestone #2:
+
+Coming soon....
+
+#### Milestone #3:
+
+Coming soon....
+
+
+
+
+### Adherence to the GitHub hosting guidelines
+
+Our team created SpotMeBro, a web platform designed to help students find gym partners, while adhering to GitHub hosting guidelines to ensure professionalism and maintainability. All source code for the project is hosted in a GitHub repository, enabling new developers to build the system locally without needing additional files from us. We established a dedicated GitHub organization named SpotMeBro, which includes a repository for the application code and a separate repository for the project’s homepage, hosted via GitHub Pages. The homepage includes an overview, user guide, community feedback, developer guide, development history, and contact information, making the project accessible and well-documented for users and developers alike. This structured approach ensures a collaborative and professional development environment, with clear documentation to support future contributors.
 
 
 ### Deployment
