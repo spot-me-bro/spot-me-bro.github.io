@@ -9,9 +9,9 @@
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Mockup](#mockup)
+* [Adherence to the GitHub hosting guidelines](#adherence-to-the-gitHub-hosting-guidelines)
 * [Deployment](#deployment)
 * [Team Contract](#team-contract)
-* [Adherence to the GitHub hosting guidelines](#adherence)
 * [Team](#team)
 
 ## Overview
