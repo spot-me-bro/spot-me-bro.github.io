@@ -82,7 +82,7 @@ Our team created SpotMeBro, a web platform designed to help students find gym pa
 
 ### Deployment
 
-SpotMeBro is deployed on vercel [here](spot-me-bro-nextjs.vercel.app).
+SpotMeBro is deployed on vercel [here](https://spot-me-bro-nextjs.vercel.app/).
 
 ### Team Contract
 
