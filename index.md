@@ -35,7 +35,7 @@ SpotMeBro is a platform designed to help students find gym partners based on the
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 * [Postgresql](https://www.postgresql.org/) for SQL database management
 
-### User Guide
+## User Guide
 Up-to-date screenshots showing the state of the project.
 
 Landing page
@@ -62,11 +62,11 @@ Workouts page
 
 
 
-### Developer Guide
+## Developer Guide
 
 
 
-#### Prerequisites 🛠️
+### Prerequisites 🛠️
 Before you begin, make sure you have the following installed on your system:
 
 Node.js (v16 or higher) and npm
@@ -74,7 +74,7 @@ PostgreSQL (or any compatible SQL database)
 A GitHub account
 
 
-#### How to Collaborate 🤝
+### How to Collaborate 🤝
 1. Clone or Fork the Repository
 If you want to contribute, you must either clone or fork the repository:
 
@@ -128,7 +128,7 @@ Once the database is set up and seeded, start the local development server:
 
 
 
-#### Viewing the Deployed Website 🌐
+### Viewing the Deployed Website 🌐
 If you just want to view the website, visit our live deployment on Vercel:
 
 [👉 SpotMeBro Live Site](https://spot-me-bro-nextjs.vercel.app/).
