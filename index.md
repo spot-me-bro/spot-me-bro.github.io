@@ -60,7 +60,11 @@ Workouts page
 ![](images/workouts.png)
 
 
+
+
 ### Developer Guide
+
+
 
 #### Prerequisites 🛠️
 Before you begin, make sure you have the following installed on your system:
@@ -68,6 +72,7 @@ Before you begin, make sure you have the following installed on your system:
 Node.js (v16 or higher) and npm
 PostgreSQL (or any compatible SQL database)
 A GitHub account
+
 
 #### How to Collaborate 🤝
 1. Clone or Fork the Repository
@@ -120,7 +125,6 @@ Once the database is set up and seeded, start the local development server:
 
 
 > npm run dev
-"Your app should now be running at http://localhost:3000."
 
 
 
