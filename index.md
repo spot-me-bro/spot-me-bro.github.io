@@ -99,6 +99,7 @@ Create a new database in your PostgreSQL instance (e.g., spotmebro_db).
 Copy the database connection string (you’ll need it for the next step).
 
 4. Configure the Environment Variables
+
 Create a .env file in the project root directory and add your database connection string:
 
 DATABASE_URL=postgresql://<username>:<password>@<host>:<port>/<database_name>
