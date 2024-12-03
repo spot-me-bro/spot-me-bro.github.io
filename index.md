@@ -109,7 +109,7 @@ Run migrations to create the database tables:
 
 Seed the database with default data:
 
-> npx ts-node prisma/seed.ts
+> npx prisma db seed  
 
 Once the database is set up and seeded, start the local development server:
 
