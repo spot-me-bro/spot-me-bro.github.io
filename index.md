@@ -156,7 +156,7 @@ For this Milestone, we set simple database models and pages/components.
 
 The goal of this Milestone is to have a fully working application that references our database for information.
 
-![](images/updatedm2.png.png)
+![](images/updatedm2.png)
 
 #### Milestone #3:
 
