@@ -1,5 +1,5 @@
 # SpotMeBro
-![](images/logo.png)
+![](images/newlogo.png)
 
 [View Github Organization](https://github.com/spot-me-bro)
 
@@ -7,6 +7,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Mockup](#mockup)
 * [Adherence to the GitHub hosting guidelines](#adherence-to-the-gitHub-hosting-guidelines)
@@ -23,7 +24,7 @@ SpotMeBro is a platform designed to help students find gym partners based on the
 
 1. Gym Partner Matching: Match users with others based on their fitness level, experience, and workout preferences.
 2. Profile Customization: Users create and manage their profiles, including fitness goals and availability.
-3. Workout Plans (Extra feature): Optionally, users can browse workout plans based on their fitness goals.
+3. Workout Plans: Users can browse workout plans based on their fitness goals.
 
 
 ### Technology Used
@@ -38,17 +39,30 @@ SpotMeBro is a platform designed to help students find gym partners based on the
 Up-to-date screenshots showing the state of the project.
 
 Landing page
-![](images/screenshot1.webp)
+![](images/landingpage.png)
+
+About Us page
+![](images/aboutus.png)
 
 Admin page
-![](images/screenshot2.webp)
-
-Select a Workout page
-![](images/screenshot3.webp)
+![](images/admin.png)
 
 Sign up page
 ![](images/screenshot4.webp)
 
+Select a Workout page
+![](images/selectaworkout.png)
+
+List Partners page
+![](images/listpartners.png)
+
+Workouts page
+![](images/workouts.png)
+
+
+### Developer Guide
+
+Coming soon...
 
 ### Mockup
 Here is a sketch of our ideas for some basic page layouts and page flow:
@@ -68,7 +82,7 @@ For this Milestone, we set simple database models and pages/components.
 
 [Here is the link to our M2 project page](https://github.com/orgs/spot-me-bro/projects/6)
 
-The goal of this Milestone is to have a fully working application that references our database for information
+The goal of this Milestone is to have a fully working application that references our database for information.
 
 ![](images/M2Screenshot.png)
 
