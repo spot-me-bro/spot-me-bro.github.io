@@ -102,8 +102,6 @@ Copy the database connection string (you’ll need it for the next step).
 
 Create a .env file in the project root directory and add your database connection string:
 
-DATABASE_URL=postgresql://<username>:<password>@<host>:<port>/<database_name>
-
 For example:
 
 DATABASE_URL=postgresql://postgres:password@localhost:5432/spotmebro_db
