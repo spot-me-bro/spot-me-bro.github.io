@@ -62,7 +62,75 @@ Workouts page
 
 ### Developer Guide
 
-Coming soon...
+#### Prerequisites 🛠️
+Before you begin, make sure you have the following installed on your system:
+
+Node.js (v16 or higher) and npm
+PostgreSQL (or any compatible SQL database)
+A GitHub account
+
+#### How to Collaborate 🤝
+1. Clone or Fork the Repository
+If you want to contribute, you must either clone or fork the repository:
+
+Navigate to the SpotMeBro GitHub repository.
+Click on Fork (if you want your own copy) or request to be added as a collaborator by the admin.
+Clone the Repo:
+
+> git clone https://github.com/spot-me-bro/SpotMeBro-nextjs.git
+> cd SpotMeBro-nextjs
+
+
+2. Install Dependencies
+After cloning the repository, install the required dependencies using npm:
+
+> npm install
+
+
+3. Set Up the Database
+You’ll need a PostgreSQL database to store the system’s data.
+
+Create a new database in your PostgreSQL instance (e.g., spotmebro_db).
+Copy the database connection string (you’ll need it for the next step).
+
+4. Configure the Environment Variables
+Create a .env file in the project root directory and add your database connection string:
+
+DATABASE_URL=postgresql://<username>:<password>@<host>:<port>/<database_name>
+
+For example:
+
+DATABASE_URL=postgresql://postgres:password@localhost:5432/spotmebro_db
+
+
+5. Run Migrations and Seed Data
+Run the following commands to set up the database schema and seed the initial data:
+
+Run migrations to create the database tables:
+
+> npx prisma migrate dev
+
+Seed the database with default data:
+
+> npx ts-node prisma/seed.ts
+
+
+6. Start the Development Server
+Once the database is set up and seeded, start the local development server:
+
+
+> npm run dev
+"Your app should now be running at http://localhost:3000."
+
+
+
+#### Viewing the Deployed Website 🌐
+If you just want to view the website, visit our live deployment on Vercel:
+
+[👉 SpotMeBro Live Site](https://spot-me-bro-nextjs.vercel.app/).
+
+No setup is needed. You can explore the system directly in your browser!
+
 
 ### Mockup
 Here is a sketch of our ideas for some basic page layouts and page flow:
@@ -84,7 +152,7 @@ For this Milestone, we set simple database models and pages/components.
 
 The goal of this Milestone is to have a fully working application that references our database for information.
 
-![](images/M2Screenshot.png)
+![](images/updatedm2.png.png)
 
 #### Milestone #3:
 
