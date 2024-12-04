@@ -149,7 +149,9 @@ The goal of this Milestone is to have a fully working application that reference
 
 #### Milestone #3:
 
-Coming soon....
+In M3 we will make a much more user friendly application, with coherent color schemes, design aspects, and overall aesthetic choices. With this will involve a lot of bug testing and trying to find as many edge cases as possible to test the app to the best of our abilities.
+
+
 
 
 
