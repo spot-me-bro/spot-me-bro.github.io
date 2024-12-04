@@ -154,7 +154,7 @@ In M3 we will make a much more user friendly application, with coherent color sc
 
 [Here is the link to our M3 project page](https://github.com/orgs/spot-me-bro/projects/7)
 
-
+![](images/m3before.png)
 
 ### Adherence to the GitHub hosting guidelines
 
