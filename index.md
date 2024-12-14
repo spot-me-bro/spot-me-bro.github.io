@@ -82,6 +82,7 @@ Click on Fork (if you want your own copy) or request to be added as a collaborat
 Clone the Repo:
 
 > git clone https://github.com/spot-me-bro/SpotMeBro-nextjs.git
+
 > cd SpotMeBro-nextjs
 
 After cloning the repository, install the required dependencies using npm:
