@@ -48,7 +48,7 @@ Admin page
 ![](images/ADMIN1.png)
 
 Sign up page
-![](images/SIGNUP1.webp)
+![](images/SIGNUP1.png)
 
 Select a Workout page
 ![](images/SELECTWORKOUT1.png)
