@@ -150,12 +150,12 @@ The goal of this Milestone is to have a fully working application that reference
 
 #### Milestone #3:
 
-In M3 we will make a much more user friendly application, with coherent color schemes, design aspects, and overall aesthetic choices. With this will involve a lot of bug testing and trying to find as many edge cases as possible to test the app to the best of our abilities.
+In M3, our final milestone, we created user a more friendly application, with coherent color schemes, design aspects, and overall aesthetic choices. This involved a lot of bug testing and trying to find as many edge cases as possible to test the app to the best of our abilities.
 
 
 [Here is the link to our M3 project page](https://github.com/orgs/spot-me-bro/projects/7)
 
-![](images/m3before.png)
+![](images/M3DONE.png)
 
 ### Adherence to the GitHub hosting guidelines
 
