@@ -41,13 +41,13 @@ Up-to-date screenshots showing the state of the project.
 Landing page
 ![](images/LANDINGPAGE1.png)
 
-Learn More page
+Key Features page
 ![](images/LEARNMORE1.png)
 
 Admin page
 ![](images/ADMIN1.png)
 
-Sign up page
+Sign Up page
 ![](images/SIGNUP1.png)
 
 Select a Workout page
