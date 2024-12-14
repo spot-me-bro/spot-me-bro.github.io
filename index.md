@@ -57,7 +57,7 @@ Potential Partners page
 ![](images/PARTNERS.png)
 
 Workouts page
-![](images/WORKOUTs1.png)
+![](images/WORKOUTS1.png)
 
 
 
