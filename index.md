@@ -12,6 +12,7 @@
 * [Mockup](#mockup)
 * [Adherence to the GitHub hosting guidelines](#adherence-to-the-gitHub-hosting-guidelines)
 * [Deployment](#deployment)
+* [Community Feedback](#community-feedback)
 * [Team Contract](#team-contract)
 * [Team](#team)
 
@@ -164,10 +165,13 @@ In M3, our final milestone, we created user a more friendly application, with co
 
 Our team created SpotMeBro, a web platform designed to help students find gym partners, while adhering to GitHub hosting guidelines to ensure professionalism and maintainability. All source code for the project is hosted in a GitHub repository, enabling new developers to build the system locally without needing additional files from us. We established a dedicated GitHub organization named SpotMeBro, which includes a repository for the application code and a separate repository for the project’s homepage, hosted via GitHub Pages. The homepage includes an overview, user guide, developer guide, and development history making the project accessible and well-documented for users and developers alike. This structured approach ensures a collaborative and professional development environment, with clear documentation to support future contributors.
 
-
 ### Deployment
 
 SpotMeBro is deployed on vercel [here](https://spot-me-bro-nextjs.vercel.app/).
+
+
+### Community Feedback
+To make sure SpotMeBro is as user-friendly and effective as possible, we had 5 community members try out the app and share their feedback. Overall, the responses were pretty positive, with most users saying they liked the clean design and simple navigation. Many found the “Find a Partner” feature to be the most useful, as it allowed them to quickly connect with gym partners who had similar workout goals. Some users suggested adding more customization options profile details and also having hyperlinks in the workouts page so users could learn more about the workouts that were listed. We also received feedback that the sign-up process could be more flexible, as the requirement for a @hawaii.edu email could be seen as a limitation. Based on this feedback, we plan to improve performance, add more customization options, and explore ways to make the sign-up process more inclusive but also safe. Overall, the feedback confirmed that SpotMeBro has potential, and the suggested improvements will make it even better.
 
 ### Team Contract
 
