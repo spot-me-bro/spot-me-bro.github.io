@@ -58,7 +58,7 @@ Select a Workout page. Users use the drop down menu to choose which type of work
 ![](images/SELECTWORKOUT1.png)
 
 Potential Partners page. Users are presented with other "potential gym partners" who also chose the same workout type. 
-![](images/PARTNERS.png)
+![](images/PARTNERS1.png)
 
 Workouts page. Users can choose a type of workout to see a list of workouts based on difficulty level. Ideally, these workouts would be updated every week by Admin. 
 ![](images/WORKOUTS1.png)
