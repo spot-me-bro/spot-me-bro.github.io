@@ -51,7 +51,7 @@ Sign Up page. Users can make an account. Users must sign up with a registered @h
 ![](images/SIGNUP1.png)
 
 Login page. Users who have a registered account can log in. 
-
+![](images/Login1.png)
 
 Select a Workout page. Users use the drop down menu to choose which type of workout they are interesting in. They will be matched with other users who also chose the same workout type. 
 ![](images/SELECTWORKOUT1.png)
