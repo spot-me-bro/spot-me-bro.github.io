@@ -38,25 +38,28 @@ SpotMeBro is a platform designed to help students find gym partners based on the
 ## User Guide
 Up-to-date screenshots showing the state of the project.
 
-Landing page
+Landing page. Users can click on the LEARN MORE button to learn more about the website.
 ![](images/LANDINGPAGE1.png)
 
-Key Features page
+Learn More page. Users can see the unique features our website offers.
 ![](images/LEARNMORE1.png)
 
-Admin page
+Admin page. This page is only assesable when logged in as an admin user. Admins can view/edit all user profiles and workouts. 
 ![](images/ADMIN1.png)
 
-Sign Up page
+Sign Up page. Users can make an account. Users must sign up with a registered @hawaii.edu email. 
 ![](images/SIGNUP1.png)
 
-Select a Workout page
+Login page. Users who have a registered account can log in. 
+
+
+Select a Workout page. Users use the drop down menu to choose which type of workout they are interesting in. They will be matched with other users who also chose the same workout type. 
 ![](images/SELECTWORKOUT1.png)
 
-Potential Partners page
+Potential Partners page. Users are presented with other "potential gym partners" who also chose the same workout type. 
 ![](images/PARTNERS.png)
 
-Workouts page
+Workouts page. Users can choose a type of workout to see a list of workouts based on difficulty level. Ideally, these workouts would be updated every week by Admin. 
 ![](images/WORKOUTS1.png)
 
 
