@@ -45,7 +45,7 @@ Landing page. Users can click on the LEARN MORE button to learn more about the w
 Learn More page. Users can see the unique features our website offers.
 ![](images/LEARNMORE1.png)
 
-Admin page. This page is only assesable when logged in as an admin user. Admins can view/edit all user profiles and workouts. 
+Admin page. This page is only accessible when logged in as an admin user. Admins can view/edit all user profiles and workouts. 
 ![](images/ADMIN1.png)
 
 Sign Up page. Users can make an account. Users must sign up with a registered @hawaii.edu email. 
