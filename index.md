@@ -57,6 +57,9 @@ Login page. Users who have a registered account can log in.
 Select a Workout page. Users use the drop down menu to choose which type of workout they are interesting in. They will be matched with other users who also chose the same workout type. 
 ![](images/SELECTWORKOUT1.png)
 
+Match or Find page. Users can be matched with potential gym partners by clicking the "Match Gym Partners" button or can browse potential workouts by clicking the "Find Workouts" button. 
+![](images/MATCHORFIND1.png)
+
 Potential Partners page. Users are presented with other "potential gym partners" who also chose the same workout type. 
 ![](images/PARTNERS1.png)
 
